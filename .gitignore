@@ -11,6 +11,10 @@
 # production
 /build
 
+# SQL Server files
+*.mdf
+*.ldf
+
 # misc
 .DS_Store
 .env.local
