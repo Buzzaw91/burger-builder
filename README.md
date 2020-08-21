@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## PROJECT React - The Complete Guide (incl Hooks, React Router, Redux)
+original code by Maximilian Schwarzmüller
+
 
 ## Available Scripts
 
