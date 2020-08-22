@@ -34,7 +34,7 @@ const fetchOrdersStart = (state, action) => {
 
 const fetchOrdersSuccess = (state, action) => {
   return updateObject(state, {
-    orders: state.orders.concat(action.orders),
+    orders: action.orders,
     loading: false
   });
 };
