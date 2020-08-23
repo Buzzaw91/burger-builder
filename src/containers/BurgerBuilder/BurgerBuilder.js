@@ -17,7 +17,6 @@ class BurgerBuilder extends Component {
   }
 
   componentDidMount() {
-    console.log('this.props.match:', this.props.match);
     this.props.onInitIgredients();
 
   }
